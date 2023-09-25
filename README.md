@@ -1,1 +1,1 @@
-#strings and templates
+SOME QUESTIONS ARE REMAINING
